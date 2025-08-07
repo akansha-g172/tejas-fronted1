@@ -30,7 +30,7 @@ function ESP8266() {
           className="w-96 mt-4 rounded-lg shadow-lg"
         />
         <p className="mt-2 text-sm text-gray-300">
-          📘 Source: <a href="https://randomnerdtutorials.com/nodemcu-esp8266-specs/" target="_blank" rel="noreferrer" className="text-blue-400 underline">RandomNerdTutorials.com</a>
+          📘 Source: <a href="https://lastminuteengineers.com/wp-content/uploads/iot/ESP8266-Pinout-NodeMCU.png" target="_blank" rel="noreferrer" className="text-blue-400 underline">RandomNerdTutorials.com</a>
         </p>
       </div>
 
