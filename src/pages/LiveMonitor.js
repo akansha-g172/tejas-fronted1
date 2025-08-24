@@ -133,7 +133,7 @@ function LiveMonitor() {
             🔧 Project Contributors
           </h3>
           <div className="mt-4 flex flex-wrap justify-center gap-4 sm:gap-6">
-            {["Ashok Samrat", "Abhishek Kumar", "Priyanshu Kumar", "Sonu Kumar - The Coder"].map((name, index) => (
+            {["Abhishek Kumar", "Bhavya Omar", "Akanksha Gupta", "Tanya Mishra"].map((name, index) => (
               <span
                 key={index}
                 className="px-4 sm:px-5 py-2 rounded-full bg-gradient-to-r from-purple-700 to-cyan-600 text-white text-xs sm:text-sm md:text-base font-semibold shadow-lg hover:scale-105 transform transition-all duration-300 neon-glow"
